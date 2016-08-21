@@ -27,8 +27,8 @@ installed.
 4. The Maven plugin relies on configuration done by the cloud SDK. For example, the project name
 you want to use for a deployment step can be defined with:
 
-      gcloud auth login
-      gcloud config set project <your project name>
+        gcloud auth login
+        gcloud config set project <your project name>
 
 ### Adding the Cloud SDK App Engine Maven plugin to an existing Maven project
 
